@@ -5,3 +5,5 @@
 - 打开APP右上角，将获取到的秘钥进行配置
 
 ### 基于XUI框架 https://github.com/xuexiangjys/XUI
+
+![image](other/20221207142148.png)
